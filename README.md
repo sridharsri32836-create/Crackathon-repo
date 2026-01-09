@@ -10,6 +10,7 @@
 4 – Pothole 
 yolo detect val model=best.pt data=data.yaml
 python predict.py
+
 mAP@50 ≈ 58%
 
 mAP@50–95 ≈ 30%
